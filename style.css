@@ -1,0 +1,16 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: blueviolet;   
+    color: white;
+}
+#VS{
+    width:  500px;
+    height: 200px;
+}
+.case{
+    background-color: blueviolet;
+}
+#toy{
+    width: 250px;
+    height: 250px;
+}
